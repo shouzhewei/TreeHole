@@ -1,9 +1,0 @@
-<<TREE_HOLE>>
-
-This is a test version for tree hole.
-
--------------------------------------------------------------------------------
-Version 0.2
-Copy Right 2014-2016
-Creation: Team Gold
-Time:09/30/2014
